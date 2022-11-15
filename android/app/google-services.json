@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969564036970",
+    "project_id": "current-da96c",
+    "storage_bucket": "current-da96c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969564036970:android:50121060d054f09bc3cf13",
+        "android_client_info": {
+          "package_name": "com.example.current_vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969564036970-pqjdbphrc1pgl7i0b6u5tk6utg2kmf95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoNeGB2eFXivW9PB4IJieI18DIKj9g2og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969564036970-pqjdbphrc1pgl7i0b6u5tk6utg2kmf95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

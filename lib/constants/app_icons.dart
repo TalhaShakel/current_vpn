@@ -1,0 +1,41 @@
+
+class AppIcons {
+  static const String arrowLeftIcon = 'assets/icons/arrowLeft.svg';
+  static const String eyeClosedIcon = 'assets/icons/eyeClosed.svg';
+  static const String malwareIcon = 'assets/icons/malware.svg';
+  static const String noLogsIcon = 'assets/icons/noLogs.svg';
+  static const String ramServerIcon = 'assets/icons/ramServer.svg';
+  static const String smartVpnIcon = 'assets/icons/smartVpn.svg';
+  static const String strictnoPolicyIcon = 'assets/icons/srtictnoPolicy.svg';
+  static const String trackerIcon = 'assets/icons/tracker.svg';
+  static const String vpnProtocolIcon = 'assets/icons/vpnProtocol.svg';
+  static const String withoiutPaymentIcon = 'assets/icons/withoiutPayment.svg';
+  static const String menuIcon = 'assets/icons/menuIcon.svg';
+  static const String arrowRightIcon = 'assets/icons/arrowRight.svg';
+  static const String dropdownIcon = 'assets/icons/dropdown.svg';
+  static const String exchangeIcon = 'assets/icons/exchange.svg';
+  static const String orangeDimondIcon = 'assets/icons/orangeDimond.svg';
+  static const String signoutIcon = 'assets/icons/signout.svg';
+  static const String helpSupportIcon = 'assets/icons/helpSupport.svg';
+  static const String paymentIcon = 'assets/icons/payment.svg';
+  static const String preferenceIcon = 'assets/icons/preference.svg';
+  static const String referFriendIcon = 'assets/icons/referFriend.svg';
+  static const String securityIcon = 'assets/icons/security.svg';
+  static const String chipIcon = 'assets/icons/chip.svg';
+  static const String switchIcon = 'assets/icons/switch.png';
+  static const String textLogo = 'assets/icons/textLogo.png';
+  static const String dimondIcon = 'assets/icons/dimond.png';
+  static const String argentinaIcon = 'assets/icons/flags/AR.png';
+  static const String australiaIcon = 'assets/icons/flags/AUS.png';
+  static const String brazilIcon = 'assets/icons/flags/BRZ.png';
+  static const String bulgariaIcon = 'assets/icons/flags/BUL.png';
+  static const String canadaIcon = 'assets/icons/flags/CAN.png';
+  static const String chinaIcon = 'assets/icons/flags/CH.png';
+  static const String germanyIcon = 'assets/icons/flags/GER.png';
+  static const String greeceIcon = 'assets/icons/flags/GRC.png';
+  static const String indiaIcon = 'assets/icons/flags/IND.png';
+  static const String ukIcon = 'assets/icons/flags/UK.png';
+  static const String usIcon = 'assets/icons/flags/US.png';
+  static const String layoutIcon = 'assets/icons/layout.svg';
+  static const String getTraficIcon = 'assets/icons/getTrafic.svg';
+}
